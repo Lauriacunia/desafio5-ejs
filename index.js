@@ -21,6 +21,10 @@ app.set('view engine', 'ejs');
 // Nota: recordar que todas las subrutas necesitan esta ruta base.
 app.use('/api/products', routeProducts);
 
+app.get('/', (req, res) => {
+    res.redirect('/api/products');
+}
+);
 
 function onInit() {
     console.log('Iniciando App...');
