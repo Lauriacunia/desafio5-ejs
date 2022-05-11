@@ -1,4 +1,9 @@
- # 🔥📲 ¿Cómo crear y levantar un proyecto Node Js? 🔥📲
+ ## Deploy
+ [Glitch](https://miniature-serious-principal.glitch.me)
+ [code](https://glitch.com/edit/#!/miniature-serious-principal)
+
+
+ ## 🔥📲 ¿Cómo crear y levantar un proyecto Node Js? 🔥📲
  * 1- Crear el package json
 ```
       npm init
